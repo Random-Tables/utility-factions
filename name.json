@@ -15,9 +15,66 @@
     ]
   },
   "religious": {
-    "table": ["Sublime"]
+    "table": [
+      "Subliminal",
+      "nightfear",
+      "darknight",
+      "hardwood",
+      "illuvian",
+      "illustrated",
+      "final word",
+      "lastfear",
+      "nighttear",
+      "greywater",
+      "moonshine",
+      "spectral",
+      "cosmic",
+      "animalistic",
+      "minddruid"
+    ]
+  },
+  "religious-of": {
+    "table": [
+      "forgotten god",
+      "forgotten wisdoms",
+      "forgotten woods",
+      "hidden shadow",
+      "lost word",
+      "hidden light",
+      "hidden words",
+      "mind's grasp",
+      "unruly mind",
+      "shockwave of night",
+      "strange dreamers",
+      "{{utility-senses/color-light/soft:white}} horse",
+      "{{utility-senses/color-dark/dark:black}} horse",
+      "{{utility-senses/color-light/soft:white}} tree",
+      "{{utility-senses/color-dark/dark:black}} tree",
+      "{{utility-senses/color-light/soft:white}} chapel",
+      "{{utility-senses/color-dark/dark:black}} chapel"
+    ]
   },
   "military": {
-    "table": ["Ox"]
+    "table": [
+      "{{utility-senses/color-light/soft:white}} ox",
+      "{{utility-senses/color-dark/dark:black}} ox",
+      "{{utility-senses/color-light/soft:white}} bear",
+      "{{utility-senses/color-dark/dark:black}} bear",
+      "{{utility-senses/color-light/soft:white}} beast",
+      "{{utility-senses/color-dark/dark:black}} bear",
+      "{{utility-senses/color-light/soft:white}} fist",
+      "{{utility-senses/color-dark/dark:black}} fist",
+      "{{utility-senses/color-light/soft:white}} blade",
+      "{{utility-senses/color-dark/dark:black}} blade",
+      "{{utility-senses/color-dark/dark:black}} night",
+      "death",
+      "fear",
+      "pain",
+      "fierce blade",
+      "bloody night",
+      "night owl",
+      "darkness",
+      "glory"
+    ]
   }
 }

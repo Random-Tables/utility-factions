@@ -14,10 +14,35 @@
     ]
   },
   "goals-religious": {
-    "table": ["complete ancient ritual", "", "", "", "", "", ""]
+    "table": [
+      "complete ancient ritual",
+      "spiritual health",
+      "redemption",
+      "freedom from earthly pain",
+      "atonement",
+      "ascension",
+      "clarity",
+      "deep thruths",
+      "divine intervention",
+      "godly powers",
+      "safety from the wrath of god/s",
+      "justice",
+      "pleasurable afterlife"
+    ]
   },
   "goals-military": {
-    "table": ["", "", "", "", "", ""]
+    "table": [
+      "conquest",
+      "glory",
+      "death in battle",
+      "honor",
+      "redemption",
+      "skill",
+      "code of honor",
+      "holy quest",
+      "revenge",
+      "protection"
+    ]
   },
   "goals": {
     "table": [
@@ -45,10 +70,41 @@
     ]
   },
   "operations-religious": {
-    "table": ["Sublime"]
+    "table": [
+      "charity",
+      "chanting",
+      "prayer",
+      "fasting",
+      "feasting",
+      "fladgelation",
+      "piety",
+      "reverance",
+      "worship",
+      "music",
+      "writing",
+      "teaching",
+      "reading",
+      "monasticism",
+      "debate",
+      "missions",
+      "conversion",
+      "maintenance of secrets",
+      "fighting heresy",
+      "cleasning others",
+      "proselytizing"
+    ]
   },
   "operations-military": {
-    "table": ["Sublime"]
+    "table": [
+      "fighting",
+      "guarding",
+      "desctruction",
+      "assasination",
+      "mercenary work",
+      "combat",
+      "questing",
+      "defence"
+    ]
   },
   "operations": {
     "table": [
@@ -64,7 +120,7 @@
       "marriage",
       "family",
       "success",
-      "doonations",
+      "donations",
       "connections",
       "power",
       "shared goals",

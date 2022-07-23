@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "table": [
+      "large finances",
+      "strong finances",
+      "big armory",
+      "amssed secret knowledge",
+      "very poor",
+      "powerful political ties",
+      "poweful artifacts",
+      "the favour of a outcast god",
+      "dangerous secrets regarding powerful leaders",
+      "well equipped military arm",
+      "fanatical devotees",
+      "trade monopoly"
+    ]
+  },
+  "age": {
+    "table": [
+      "ancient",
+      "old",
+      "new",
+      "seemingly new",
+      "recently renewed",
+      "seemingly always been there"
+    ]
+  }
+}
