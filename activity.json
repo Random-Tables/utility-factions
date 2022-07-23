@@ -1,0 +1,78 @@
+{
+  "goals-group": {
+    "table": [
+      "mastery",
+      "craft",
+      "network",
+      "monopoly",
+      "power",
+      "front",
+      "crime",
+      "riches",
+      "community",
+      "secret"
+    ]
+  },
+  "goals-religious": {
+    "table": ["complete ancient ritual", "", "", "", "", "", ""]
+  },
+  "goals-military": {
+    "table": ["", "", "", "", "", ""]
+  },
+  "goals": {
+    "table": [
+      "{{utility-factions/activity/goals-group}}",
+      "{{utility-factions/activity/goals-religious}}",
+      "{{utility-factions/activity/goals-military}}"
+    ]
+  },
+  "operations-group": {
+    "table": [
+      "training",
+      "self-mastery",
+      "meetings",
+      "pressuring connections",
+      "subterfuge",
+      "undermining opponents",
+      "spying",
+      "hoaxs",
+      "trickery",
+      "seceptions",
+      "fraud",
+      "hiding knowledge",
+      "sharing secrets",
+      "cooperation"
+    ]
+  },
+  "operations-religious": {
+    "table": ["Sublime"]
+  },
+  "operations-military": {
+    "table": ["Sublime"]
+  },
+  "operations": {
+    "table": [
+      "{{utility-factions/activity/operations-group}}",
+      "{{utility-factions/activity/operations-religious}}",
+      "{{utility-factions/activity/operations-military}}"
+    ]
+  },
+  "joining": {
+    "table": [
+      "request",
+      "influence",
+      "marriage",
+      "family",
+      "success",
+      "doonations",
+      "connections",
+      "power",
+      "shared goals",
+      "ethnic",
+      "cultural",
+      "secret ritual",
+      "secret place",
+      "puzzle hides meeting place"
+    ]
+  }
+}

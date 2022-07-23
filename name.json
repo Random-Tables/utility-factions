@@ -1,0 +1,23 @@
+{
+  "professional": {
+    "table": [
+      "esteemed",
+      "noble",
+      "qualified",
+      "professional",
+      "unified",
+      "masters",
+      "fine",
+      "well renowned",
+      "offical",
+      "royal",
+      "right honorable"
+    ]
+  },
+  "religious": {
+    "table": ["Sublime"]
+  },
+  "military": {
+    "table": ["Ox"]
+  }
+}

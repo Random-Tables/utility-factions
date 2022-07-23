@@ -1,0 +1,86 @@
+{
+  "top": {
+    "table": [
+      "master",
+      "grandmaster",
+      "the three",
+      "the one",
+      "lord",
+      "most high",
+      "the first",
+      "the last",
+      "chosen",
+      "king",
+      "admiral",
+      "primarch",
+      "archon",
+      "patriarch",
+      "matriarch",
+      "president",
+      "elder"
+    ]
+  },
+  "intermediate": {
+    "table": [
+      "duke",
+      "prince",
+      "baron",
+      "magister",
+      "watcher",
+      "honor guard",
+      "listener",
+      "last circle",
+      "honored",
+      "chapter master",
+      "guard",
+      "advisor",
+      "scholar",
+      "sentinel",
+      "exectutor",
+      "archknight",
+      "hand",
+      "vizier",
+      "mentor",
+      "marshal",
+      "justicar",
+      "sage"
+    ]
+  },
+  "upcoming": {
+    "table": [
+      "Journeyman",
+      "able",
+      "readymen",
+      "walker",
+      "apprentice",
+      "consul",
+      "spokesman",
+      "administrator",
+      "knight",
+      "attendant",
+      "herald"
+    ]
+  },
+  "initial": {
+    "table": [
+      "Initiate",
+      "trainee",
+      "peasant",
+      "serf",
+      "apostle",
+      "patrolman",
+      "scout",
+      "watchman",
+      "neopyhte",
+      "beginner",
+      "novice",
+      "amateur",
+      "fledgling",
+      "greenhorn",
+      "novitiate",
+      "recruit",
+      "starter",
+      "student"
+    ]
+  }
+}

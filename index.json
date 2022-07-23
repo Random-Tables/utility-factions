@@ -1,0 +1,15 @@
+{
+  "collectionID": "utility-factions",
+  "collectionName": "Utility Factions",
+  "category": "Utility",
+  "isUtility": true,
+  "version": 1,
+  "required": [""],
+  "tags": ["group", "fantasy"],
+  "tables": {
+    "name": ["professional", "religious", "military"],
+    "rank": ["top", "intermediate", "upcoming", "initial"],
+    "activity": ["goals", "operations", "joining"],
+    "status": ["influence", "resources"]
+  }
+}
