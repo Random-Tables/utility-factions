@@ -1,0 +1,22 @@
+{
+  "name": "utility-factions",
+  "version": "1.0.0",
+  "description": "utilities for generating factions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Random-Tables/utility-factions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Random-Tables/utility-factions/issues"
+  },
+  "homepage": "https://github.com/Random-Tables/utility-factions#readme",
+  "dependencies": {
+    "@random-tables/utility-senses": "^1.10.3"
+  }
+}
