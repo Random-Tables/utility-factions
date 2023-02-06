@@ -1,10 +1,11 @@
 {
   "name": "@random-tables/utility-factions",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "utilities for generating factions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "node scripts/generateCalls"
   },
   "repository": {
     "type": "git",

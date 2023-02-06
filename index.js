@@ -3,6 +3,7 @@ const activity = require("./activity.json");
 const name = require("./name.json");
 const rank = require("./rank.json");
 const status = require("./status.json");
+const calls = require("./calls.json");
 
 const utilitySenses = require("@random-tables/utility-senses");
 
@@ -15,4 +16,5 @@ module.exports = {
     status,
   },
   requirements: [utilitySenses],
+  calls,
 };
